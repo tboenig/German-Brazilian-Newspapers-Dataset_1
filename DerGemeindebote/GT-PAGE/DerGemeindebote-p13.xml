@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>VRI/UFPR</Creator>
+	<Created>2018-12-19T21:15:02</Created>
+	<LastChange>2018-12-20T15:30:30</LastChange></Metadata>
+	<Page imageFilename="DerGemeindebote-p13.png" imageWidth="3850" imageHeight="5480">
+	<AlternativeImage filename="DerGemeindebote-p13-bw.png" comments="B/W"/>
+	<TextRegion id="r0" type="caption">
+	<Coords points="742,385 742,609 3030,609 3030,385"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="333,678 3450,692 3445,823 2583,814 2590,945 1159,952 1154,814 323,811 326,676"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="328,1045 3440,1052 3442,1095 323,1095 326,1040"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="323,1130 323,1290 1035,1290 1035,1130"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1673,1150 1673,1290 2388,1290 2388,1150"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="3114,1140 3114,1271 3435,1271 3435,1140"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="323,1338 683,1330 2933,1345 3438,1342 3435,1388 2095,1385 895,1385 523,1380 319,1383 323,1340"/></SeparatorRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1380,1485 1380,1642 2380,1642 2380,1485"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1128,2769 1128,1683 2697,1683 2697,2769"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9">
+	<Coords points="321,1671 321,2888 869,2888 869,1671"/></GraphicRegion>
+	<GraphicRegion id="r10">
+	<Coords points="2883,1676 2883,2878 3438,2878 3438,1676"/></GraphicRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="2228,2807 2228,2892 2669,2892 2669,2807"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="404,2987 404,3219 1743,3219 1743,2987"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="319,5019 319,3256 1834,3256 1834,5019"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="1926,4171 1926,2988 3442,2988 3442,4171"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1926,5016 1926,4183 3435,4183 3435,5016"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
