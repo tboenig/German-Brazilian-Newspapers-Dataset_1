@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>VRI/UFPR</Creator>
+	<Created>2018-12-20T16:58:54</Created>
+	<LastChange>2018-12-20T16:58:54</LastChange></Metadata>
+	<Page imageFilename="DerJugendfreund_1913_0504-p16.png" imageWidth="2650" imageHeight="3950">
+	<AlternativeImage filename="DerJugendfreund_1913_0504-p16-bw.png" comments="B/W"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="361,332 361,377 409,377 409,332"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1242,326 1242,370 1554,370 1554,326"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="2250,317 2250,364 2364,364 2364,317"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="2058,378 2468,378 2469,402 1282,406 458,414 261,417 260,389 980,386 2058,376"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="257,590 257,454 1340,454 1340,590"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="330,730 330,598 1077,598 1077,730"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="260,998 260,730 1341,730 1341,998"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="262,1132 262,1001 1344,1001 1344,1132"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="264,1757 264,1133 1346,1133 1346,1757"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="266,1894 266,1764 1349,1764 1349,1894"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="340,1897 340,1941 1348,1941 1348,1897"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="270,2048 270,1957 1353,1957 1353,2048"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="272,2136 272,2049 1352,2049 1352,2136"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="268,2501 268,2141 1354,2141 1354,2501"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="346,2632 366,2630 704,2632 733,2590 1317,2588 1317,2502 341,2505 342,2633"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="270,2720 270,2637 1361,2637 1361,2720"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="274,2858 274,2726 1356,2726 1356,2858"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="276,2948 276,2861 1354,2861 1354,2948"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="270,3128 270,2952 1354,2952 1354,3128"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="276,3262 276,3132 1354,3132 1354,3262"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="273,3444 273,3266 1353,3266 1353,3444"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="273,3533 273,3448 1353,3448 1353,3533"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="340,3536 340,3576 1353,3576 1353,3536"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="1390,450 1390,673 2469,673 2469,450"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="2088,689 2088,737 2252,737 2252,689"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="1690,809 1690,880 2193,880 2193,809"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="1401,1108 1401,922 2488,922 2488,1108"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="1401,1193 1401,1112 2488,1112 2488,1193"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="1401,1556 1401,1201 2485,1201 2485,1556"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="1404,2320 1404,1560 2494,1560 2494,2320"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="2162,2324 2162,2360 2421,2360 2421,2324"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r32">
+	<Coords points="1870,2392 1870,2588 2025,2588 2025,2392"/></GraphicRegion>
+	<GraphicRegion id="r33">
+	<Coords points="1478,2621 1478,2685 1526,2685 1526,2621"/></GraphicRegion>
+	<GraphicRegion id="r34">
+	<Coords points="2378,2618 2378,2690 2434,2690 2434,2618"/></GraphicRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="1598,2622 1596,2701 1478,2702 1480,2958 1624,2961 1624,3054 2274,3053 2268,2966 2433,2961 2405,2710 2316,2706 2313,2617 1598,2617"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="1501,3070 1501,3114 2393,3114 2393,3070"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r37">
+	<Coords points="1416,3148 1416,3165 2488,3165 2488,3148"/></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="1708,3168 1708,3236 2190,3236 2190,3168"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="1410,3266 1410,3484 2498,3484 2498,3266"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="1410,3582 1410,3493 2498,3493 2498,3582"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

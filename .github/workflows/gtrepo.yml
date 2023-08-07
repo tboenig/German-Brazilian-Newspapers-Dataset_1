@@ -154,9 +154,9 @@ jobs:
          
    # Bagit
 
-    - name: make bagit
-      run: sh scripts/data_structure.sh
-      shell: bash
+    #- name: make bagit
+    #  run: sh scripts/data_structure.sh
+    #  shell: bash
      
     
 
