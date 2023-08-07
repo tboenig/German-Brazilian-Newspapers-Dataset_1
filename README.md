@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">GBN Dataset</h1>
-   <p id="paragraph">The GBN Dataset consists from six different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. It is a dataset created for evaluation of layout analysis methods.</p>
+   <p id="paragraph">The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. It is a dataset created for evaluation of layout analysis methods.</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
@@ -43,22 +43,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>3080</td>
+            <td>1113</td>
             <td>18</td>
             <td>0</td>
-            <td>181</td>
+            <td>86</td>
             <td>0</td>
             <td>0</td>
-            <td>624</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>157</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>102</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>68</td>
          </tr>
       </tbody>
    </table>
@@ -89,25 +89,6 @@
             </thead>
             <tbody>
                <tr>
-                  <td>DerPionier</td>
-                  <td>1215</td>
-                  <td/>
-                  <td/>
-                  <td>38</td>
-                  <td/>
-                  <td/>
-                  <td>211</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-               </tr>
-               <tr>
                   <td>DerGemeindebote</td>
                   <td>226</td>
                   <td/>
@@ -135,25 +116,6 @@
                   <td/>
                   <td/>
                   <td>34</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-               </tr>
-               <tr>
-                  <td>KolonieZeitung</td>
-                  <td>752</td>
-                  <td/>
-                  <td/>
-                  <td>57</td>
-                  <td/>
-                  <td/>
-                  <td>256</td>
                   <td/>
                   <td/>
                   <td/>
