@@ -155,14 +155,11 @@ jobs:
          
    # Bagit
 
-   # - name: make bagit
-   #   run: sh scripts/data_structure.sh
-   #   shell: bash
+    - name: make bagit
+      run: sh scripts/data_structure.sh
+      shell: bash
      
-    - name: test
-      run: |
-       cd /home/runner/work/GBN-Dataset/GBN-Dataset/data/DerPionier/
-       ls
+    
 
 
     - name: copy css styles and yml files to ghout
