@@ -13,7 +13,7 @@
       <dt>Production software:</dt>
       <dd>Aletheia</dd>
       <dt>Time:</dt>
-      <dd>1800-1937</dd>
+      <dd>1912-1940</dd>
       <dt>GT Type:</dt>
       <dd>data_structure</dd>
    </dl>
@@ -123,7 +123,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.0.7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.0.8/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases">Version archive</a>
