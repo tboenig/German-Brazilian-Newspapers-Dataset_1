@@ -39,7 +39,13 @@ jobs:
         rm -r gt-repo-scripts
        
     
-    # Installation python
+    # Installation drawImage
+
+    - name: install drawImage
+      run: | 
+        git clone https://github.com/CrazyCrud/page-xml-draw.git
+        cd page-xml-draw/
+        pip3 install .
     
     #- name: Set up Python ${{ matrix.python-version }}
     #  uses: actions/setup-python@v4
