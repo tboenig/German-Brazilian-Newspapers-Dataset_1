@@ -23,6 +23,8 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v3
       
+          
+
 
      # Installation Styles
       
@@ -31,6 +33,8 @@ jobs:
         git clone https://github.com/tboenig/gt-repo-scripts.git
         mv gt-repo-scripts/scripts scripts/
         rm -r gt-repo-scripts
+        pwd
+        ls
 
      # Installation GT-Labelling Documentation
 
@@ -63,7 +67,9 @@ jobs:
       run: mkdir ocrdzip_out
       
     - name: make gh-pages_out
-      run: mkdir ghout
+      run: |
+        mkdir ghout
+        mkdir ghout/drawImg
       
     - name: make readme_out 
       run:  sh scripts/readmefolder.sh
