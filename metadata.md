@@ -123,7 +123,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.0.31/bagitDump-v31.zip">Current version download: bagitDump-v31.zip</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.0.39/bagitDump-v39.zip">Current version download: bagitDump-v39.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases">Version archive</a>
