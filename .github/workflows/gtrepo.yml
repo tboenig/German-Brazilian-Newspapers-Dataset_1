@@ -190,7 +190,7 @@ jobs:
 
     - name: make drawimagesbagit
       run: sh scripts/drawimages.sh
-      shell: bash
+      
      
     
 
