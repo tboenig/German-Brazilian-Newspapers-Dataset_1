@@ -198,6 +198,7 @@ jobs:
         cd  page-xml-draw/examples
         page-xml-draw  -h
         pwd
+        ls
         page-xml-draw page-xml-draw -i input.xml -o ../../ghout/output.png --base-dir ../assets/images --profile contrast/profile.json
       shell: bash {0}
      
