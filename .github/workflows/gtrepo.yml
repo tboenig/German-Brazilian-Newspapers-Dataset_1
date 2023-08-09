@@ -42,7 +42,7 @@ jobs:
 
     - name: install drawImage
       run: | 
-        git clone https://github.com/CrazyCrud/page-xml-draw.git
+        git clone https://github.com/tboenig/page-xml-draw.git
         cd page-xml-draw/
         pip3 install .
     
