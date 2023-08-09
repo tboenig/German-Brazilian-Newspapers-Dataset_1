@@ -196,8 +196,8 @@ jobs:
     - name: make drawimages
       run: |
         cd /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/
-        sudo page-xml-draw  -h
-        sudo page-xml-draw -i /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml -o /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/ghout/drawImg/DerGemeindebote-p18.png -b GT-PAGE/DerGemeindebote-p18.png -p /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/scripts/profile.json
+        page-xml-draw  -h
+        page-xml-draw -i /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml -o /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/ghout/drawImg/DerGemeindebote-p18.png -b GT-PAGE/DerGemeindebote-p18.png -p /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/scripts/profile.json
       shell: bash {0}
      
     # page-xml-draw -i /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml -o ghout/drawImg/home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.png -b GT-PAGE/DerGemeindebote-p18.png -p /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/scripts/profile.json
