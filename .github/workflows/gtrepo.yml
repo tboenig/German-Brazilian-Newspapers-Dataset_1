@@ -200,7 +200,7 @@ jobs:
         pwd
         ls
         page-xml-draw -i input.xml -o output.png --base-dir ../assets/images --profile contrast/profile.json
-      shell: bash {0}
+      shell: bash
      
     # page-xml-draw -i /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml -o ghout/drawImg/home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.png -b GT-PAGE/DerGemeindebote-p18.png -p /home/runner/work/German-Brazilian-Newspapers-Dataset/German-Brazilian-Newspapers-Dataset/scripts/profile.json
 
