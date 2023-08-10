@@ -193,10 +193,11 @@ jobs:
     - name: make drawimages
       run: |
         sh scripts/drawimages.sh
-        cd ghout/drawImg
-        mkdir thumb
-        sudo magick mogrify -path thumb -resize 50% *.png
       shell: bash
+      
+    # cd ghout/drawImg
+    # mkdir thumb
+    # sudo magick mogrify -path thumb -resize 50% *.png
      
 
     - name: copy css styles and yml files to ghout
