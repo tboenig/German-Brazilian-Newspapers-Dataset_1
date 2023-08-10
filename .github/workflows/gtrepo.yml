@@ -49,13 +49,7 @@ jobs:
     
     - name: install ImageMagick
       run: |
-        git clone https://github.com/ImageMagick/ImageMagick.git
-        cd ImageMagick
-        ./configure
-        make
-        sudo make install
-        sudo ldconfig /usr/local/lib
-        convert -version
+        sudo apt-get install imagemagick
     
     # Installation GT-Labelling Documentation
 
