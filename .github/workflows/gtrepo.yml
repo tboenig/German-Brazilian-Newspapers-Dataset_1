@@ -47,9 +47,9 @@ jobs:
         
     # Installation ImageMagick
     
-    - name: install ImageMagick
-      run: |
-        sudo apt-get install imagemagick
+    # - name: install ImageMagick
+    #  run: |
+    #    sudo apt-get install imagemagick
     
     # Installation GT-Labelling Documentation
 
@@ -193,6 +193,9 @@ jobs:
     - name: make drawimages
       run: |
         sh scripts/drawimages.sh
+        cd ghout/drawImg
+        mkdir thumb
+        sudo magick mogrify -path thumb -resize 50% *.png
       shell: bash
      
 
