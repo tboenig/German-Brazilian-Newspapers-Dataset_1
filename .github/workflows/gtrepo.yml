@@ -43,6 +43,19 @@ jobs:
         git clone https://github.com/tboenig/page-xml-draw.git
         cd page-xml-draw/
         pip3 install .
+        
+        
+    # Installation ImageMagick
+    
+    - name: install ImageMagick
+      run: |
+        git clone https://github.com/ImageMagick/ImageMagick.git
+        cd ImageMagick
+        ./configure
+        make
+        sudo make install
+        sudo ldconfig /usr/local/lib
+        convert -version
     
     # Installation GT-Labelling Documentation
 
