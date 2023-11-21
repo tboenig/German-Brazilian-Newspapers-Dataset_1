@@ -78,13 +78,6 @@ An image database</p>
                     </p>
    </details>
    <details>
-      <summary>contentOfInterest/visual/image</summary>
-      <p>
-         <strong>Description: </strong>
-                        Description coming soon.
-                    </p>
-   </details>
-   <details>
       <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
       <p>
          <strong>Description: </strong>Antiqua font (more modern)</p>
@@ -123,7 +116,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.4/bagitDump-v69.zip">Current version download: bagitDump-v69.zip</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/tag/v1.1.7">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 72_v1.1.7</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases">Version archive</a>
@@ -283,22 +276,22 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>1113</td>
-            <td>18</td>
-            <td>0</td>
-            <td>86</td>
+            <td>226</td>
             <td>0</td>
             <td>0</td>
-            <td>157</td>
+            <td>27</td>
             <td>0</td>
             <td>0</td>
+            <td>30</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>68</td>
+            <td>0</td>
+            <td>0</td>
+            <td>19</td>
          </tr>
       </tbody>
    </table>

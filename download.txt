@@ -1,0 +1,1 @@
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.7/DerGemeindebote.ocrd.zip
