@@ -43,22 +43,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>226</td>
+            <td>509</td>
+            <td>2</td>
+            <td>0</td>
+            <td>43</td>
             <td>0</td>
             <td>0</td>
-            <td>27</td>
-            <td>0</td>
-            <td>0</td>
-            <td>30</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>58</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>19</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>34</td>
          </tr>
       </tbody>
    </table>
@@ -106,6 +106,25 @@
                   <td/>
                   <td/>
                   <td>19</td>
+               </tr>
+               <tr>
+                  <td>DerJugendfreund</td>
+                  <td>283</td>
+                  <td>2</td>
+                  <td/>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>15</td>
                </tr>
             </tbody>
          </table>
