@@ -43,22 +43,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>509</td>
-            <td>2</td>
+            <td>783</td>
+            <td>16</td>
             <td>0</td>
-            <td>43</td>
-            <td>0</td>
-            <td>0</td>
-            <td>58</td>
+            <td>67</td>
             <td>0</td>
             <td>0</td>
+            <td>123</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>34</td>
+            <td>0</td>
+            <td>0</td>
+            <td>51</td>
          </tr>
       </tbody>
    </table>
@@ -88,6 +88,25 @@
                </tr>
             </thead>
             <tbody>
+               <tr>
+                  <td>DerSandwirt</td>
+                  <td>274</td>
+                  <td>14</td>
+                  <td/>
+                  <td>24</td>
+                  <td/>
+                  <td/>
+                  <td>65</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+               </tr>
                <tr>
                   <td>DerGemeindebote</td>
                   <td>226</td>
