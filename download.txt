@@ -1,1 +1,1 @@
-https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.8/DerGemeindebote.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.8/DerJugendfreund.ocrd.zip
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.9/DerSandwirt.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.9/DerGemeindebote.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/download/v1.1.9/DerJugendfreund.ocrd.zip

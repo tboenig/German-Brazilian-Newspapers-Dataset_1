@@ -54,11 +54,11 @@
   "gtTyp": "data_structure",
   "format": "Page-XML",
   "volume": {
-    "TxtRegion": "509",
-    "ImgRegion": "2",
-    "GraphRegion": "43",
-    "SepRegion": "58",
-    "Page": "34"
+    "TxtRegion": "783",
+    "ImgRegion": "16",
+    "GraphRegion": "67",
+    "SepRegion": "123",
+    "Page": "51"
   },
   "labelling": [
     "content-type/corpus",
