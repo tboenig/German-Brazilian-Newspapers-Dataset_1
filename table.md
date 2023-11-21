@@ -225,7 +225,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p07.xml">DerGemeindebote-p07.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p07.xml">DerGemeindebote-p07.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -244,7 +244,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p05.xml">DerGemeindebote-p05.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p05.xml">DerGemeindebote-p05.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -263,7 +263,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p16.xml">DerGemeindebote-p16.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p16.xml">DerGemeindebote-p16.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -282,7 +282,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p14.xml">DerGemeindebote-p14.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p14.xml">DerGemeindebote-p14.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -301,7 +301,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p23.xml">DerGemeindebote-p23.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p23.xml">DerGemeindebote-p23.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -320,7 +320,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p08.xml">DerGemeindebote-p08.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p08.xml">DerGemeindebote-p08.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -339,7 +339,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p02.xml">DerGemeindebote-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p02.xml">DerGemeindebote-p02.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -358,7 +358,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml">DerGemeindebote-p18.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml">DerGemeindebote-p18.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -377,7 +377,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p12.xml">DerGemeindebote-p12.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p12.xml">DerGemeindebote-p12.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -396,7 +396,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p13.xml">DerGemeindebote-p13.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p13.xml">DerGemeindebote-p13.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -415,7 +415,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p09.xml">DerGemeindebote-p09.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p09.xml">DerGemeindebote-p09.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -434,7 +434,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p15.xml">DerGemeindebote-p15.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p15.xml">DerGemeindebote-p15.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -453,7 +453,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p20.xml">DerGemeindebote-p20.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p20.xml">DerGemeindebote-p20.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -472,7 +472,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p19.xml">DerGemeindebote-p19.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p19.xml">DerGemeindebote-p19.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -491,7 +491,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p11.xml">DerGemeindebote-p11.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p11.xml">DerGemeindebote-p11.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -510,7 +510,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p04.xml">DerGemeindebote-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p04.xml">DerGemeindebote-p04.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -529,7 +529,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p17.xml">DerGemeindebote-p17.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p17.xml">DerGemeindebote-p17.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -548,7 +548,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p06.xml">DerGemeindebote-p06.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p06.xml">DerGemeindebote-p06.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -567,7 +567,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.7/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p22.xml">DerGemeindebote-p22.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p22.xml">DerGemeindebote-p22.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -576,6 +576,338 @@
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>DerJugendfreund</th>
+               <td>283</td>
+               <td>2</td>
+               <td>0</td>
+               <td>16</td>
+               <td>0</td>
+               <td>0</td>
+               <td>28</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0404-p01.xml">DerJugendfreund_1912_0404-p01.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p01.xml">DerJugendfreund_1916_0809-p01.xml</a>
+                           </td>
+                           <td>17</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1917_0901-p01.xml">DerJugendfreund_1917_0901-p01.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0407-p03.xml">DerJugendfreund_1912_0407-p03.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0407-p01.xml">DerJugendfreund_1912_0407-p01.xml</a>
+                           </td>
+                           <td>21</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0509-p33.xml">DerJugendfreund_1913_0509-p33.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1915_0710-p38.xml">DerJugendfreund_1915_0710-p38.xml</a>
+                           </td>
+                           <td>22</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p04.xml">DerJugendfreund_1916_0809-p04.xml</a>
+                           </td>
+                           <td>15</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1915_0702-p05.xml">DerJugendfreund_1915_0702-p05.xml</a>
+                           </td>
+                           <td>14</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0810-p01.xml">DerJugendfreund_1916_0810-p01.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0504-p16.xml">DerJugendfreund_1913_0504-p16.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0501-p02.xml">DerJugendfreund_1913_0501-p02.xml</a>
+                           </td>
+                           <td>23</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p02.xml">DerJugendfreund_1916_0809-p02.xml</a>
+                           </td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0410-p01.xml">DerJugendfreund_1912_0410-p01.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/blob/v1.1.8/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1914_0604-p13.xml">DerJugendfreund_1914_0604-p13.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
