@@ -43,22 +43,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>1113</td>
-            <td>18</td>
-            <td>0</td>
-            <td>86</td>
+            <td>226</td>
             <td>0</td>
             <td>0</td>
-            <td>157</td>
+            <td>27</td>
             <td>0</td>
             <td>0</td>
+            <td>30</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>68</td>
+            <td>0</td>
+            <td>0</td>
+            <td>19</td>
          </tr>
       </tbody>
    </table>
@@ -106,63 +106,6 @@
                   <td/>
                   <td/>
                   <td>19</td>
-               </tr>
-               <tr>
-                  <td>EvLuthKirchenblatt</td>
-                  <td>330</td>
-                  <td>2</td>
-                  <td/>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td>34</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-               </tr>
-               <tr>
-                  <td>DerJugendfreund</td>
-                  <td>283</td>
-                  <td>2</td>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>15</td>
-               </tr>
-               <tr>
-                  <td>DerSandwirt</td>
-                  <td>274</td>
-                  <td>14</td>
-                  <td/>
-                  <td>24</td>
-                  <td/>
-                  <td/>
-                  <td>65</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
                </tr>
             </tbody>
          </table>
