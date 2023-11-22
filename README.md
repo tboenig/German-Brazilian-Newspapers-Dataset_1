@@ -43,22 +43,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>783</td>
-            <td>16</td>
+            <td>1113</td>
+            <td>18</td>
             <td>0</td>
-            <td>67</td>
-            <td>0</td>
-            <td>0</td>
-            <td>123</td>
+            <td>86</td>
             <td>0</td>
             <td>0</td>
+            <td>157</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>51</td>
+            <td>0</td>
+            <td>0</td>
+            <td>68</td>
          </tr>
       </tbody>
    </table>
@@ -97,6 +97,25 @@
                   <td/>
                   <td/>
                   <td>65</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+               </tr>
+               <tr>
+                  <td>EvLuthKirchenblatt</td>
+                  <td>330</td>
+                  <td>2</td>
+                  <td/>
+                  <td>19</td>
+                  <td/>
+                  <td/>
+                  <td>34</td>
                   <td/>
                   <td/>
                   <td/>
