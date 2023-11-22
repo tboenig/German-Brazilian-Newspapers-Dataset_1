@@ -236,11 +236,11 @@ jobs:
           # Bagit
       
           - name: make del_invalidMets
-            run: sh scripts/data_mets.sh
+            run: sh -ex scripts/data_mets.sh
             shell: bash    
           
           - name: make validMets  
-            run: sh scripts/mets.sh
+            run: sh -ex scripts/mets.sh
             shell: bash      
 
           - name: make bagit
