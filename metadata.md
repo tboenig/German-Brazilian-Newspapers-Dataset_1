@@ -123,7 +123,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/tag/t1.1.7">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 8_t1.1.7</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/tag/v1.1.14">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 79_v1.1.14</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases">Version archive</a>
