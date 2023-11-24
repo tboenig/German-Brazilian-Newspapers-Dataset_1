@@ -1,7 +1,7 @@
 {
   "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
-  "title": "GBN Dataset",
-  "url": "https://github.com/tboenig/GBN-Dataset",
+  "title": "German-Brazilian-Newspapers-Dataset Part 1",
+  "url": "https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1",
   "authors": [
     {
       "name": "Alessandra",
@@ -25,7 +25,7 @@
       ]
     }
   ],
-  "description": "The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. It is a dataset created for evaluation of layout analysis methods.",
+  "description": "The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts.  The parts are designated numerically.  German-Brazilian-Newspapers-Dataset_1 = Part 1; German-Brazilian-Newspapers-Dataset_2 = Part 2 It is a dataset created for evaluation of layout analysis methods.",
   "project-name": "German-Brazilian Newspapers (GBN) ",
   "project-website": "https://web.inf.ufpr.br/vri/databases/gbn/",
   "language": [

@@ -3,9 +3,9 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>GBN Dataset</dd>
+      <dd>German-Brazilian-Newspapers-Dataset Part 1</dd>
       <dt>Description:</dt>
-      <dd>The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. It is a dataset created for evaluation of layout analysis methods.</dd>
+      <dd>The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts.  The parts are designated numerically.  German-Brazilian-Newspapers-Dataset_1 = Part 1; German-Brazilian-Newspapers-Dataset_2 = Part 2 It is a dataset created for evaluation of layout analysis methods.</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
@@ -123,10 +123,10 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases/tag/v1.1.14">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 79_v1.1.14</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/tag/v1.1.15">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 80_v1.1.15</a>
       </li>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset/releases">Version archive</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases">Version archive</a>
       </li>
    </ul>
 </div>
