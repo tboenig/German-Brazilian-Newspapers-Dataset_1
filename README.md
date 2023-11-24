@@ -1,6 +1,6 @@
 <div>
-   <h1 id="title">GBN Dataset</h1>
-   <p id="paragraph">The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. It is a dataset created for evaluation of layout analysis methods.</p>
+   <h1 id="title">German-Brazilian-Newspapers-Dataset Part 1</h1>
+   <p id="paragraph">The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts.  The parts are designated numerically.  German-Brazilian-Newspapers-Dataset_1 = Part 1; German-Brazilian-Newspapers-Dataset_2 = Part 2 It is a dataset created for evaluation of layout analysis methods.</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
