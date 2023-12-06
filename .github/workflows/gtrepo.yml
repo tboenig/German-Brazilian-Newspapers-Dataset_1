@@ -234,12 +234,12 @@ jobs:
               -s:scripts/gt-overview_metadata.xsl -o:rawCITATION.cff
             shell: bash
 
-          - name: formating CITATION.cff
-            id: lookupSdkVersion2
-            uses: mikefarah/yq@master
-            with:
-              cmd: |
-                yq -I4 rawCITATION.cff > CITATION.cff
+      #    - name: formating CITATION.cff
+      #      id: lookupSdkVersion2
+      #      uses: mikefarah/yq@master
+      #      with:
+      #        cmd: |
+      #          yq -I4 rawCITATION.cff > CITATION.cff
           
             
         
@@ -318,7 +318,6 @@ jobs:
               git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git config --local user.name "github-actions[bot]"
               git add rawCITATION.cff
-              git add CITATION.cff
               git commit -m "[Automatic] Update rawCITATION.cff and CITATION.cff files" || echo "Nothing to update"
               git push origin HEAD:main    
       
