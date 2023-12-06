@@ -240,7 +240,7 @@ jobs:
             with:
               cmd: |
                 yq -I4 rawCITATION.cff > CITATION.cff
-                rm rawCITATION.cff
+          # rm rawCITATION.cff
             
         
           - name: Index-link
@@ -317,8 +317,9 @@ jobs:
             run: |
               git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git config --local user.name "github-actions[bot]"
+              git add rawCITATION.cff
               git add CITATION.cff
-              git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
+              git commit -m "[Automatic] Update rawCITATION.cff and CITATION.cff files" || echo "Nothing to update"
               git push origin HEAD:main    
       
       
