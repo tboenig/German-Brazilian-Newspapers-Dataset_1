@@ -240,7 +240,7 @@ jobs:
             with:
               cmd: |
                 yq -I4 rawCITATION.cff > CITATION.cff
-          # rm rawCITATION.cff
+          
             
         
           - name: Index-link
