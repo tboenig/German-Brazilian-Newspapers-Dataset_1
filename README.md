@@ -176,6 +176,7 @@ It is a dataset created for evaluation of layout analysis methods.
       </div>
    </div>
    <div id="extent">
+   <h1>About</h1>
       <h2>The GBN Dataset (German-Brazilian historical Newspapers Dataset)</h2>
       <p>
          <img fetchpriority="high"
@@ -188,7 +189,7 @@ It is a dataset created for evaluation of layout analysis methods.
               srcset="https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase.png 1372w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-300x100.png 300w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-768x256.png 768w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-1024x341.png 1024w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-360x120.png 360w"
               sizes="(max-width: 1372px) 100vw, 1372px"/>
       </p>
-      <p>The GBN Dataset (Part 1 and Part 2)[1] consists of 152 grayscale page images from eight diferent German-Brazilian historical newspapers, along with their binarized images and ground files. It is a dataset created for evaluation of layout analysis methods.</p>
+      <p>The GBN Dataset (Part 1 and Part 2)[1] consists of 152 grayscale page images from eight different German-Brazilian historical newspapers, along with their binarized images and ground files. It is a dataset created for evaluation of layout analysis methods.</p>
       <p>Complex layouts, poor preservation conditions of the paper, old spelling, different font sizes and the presence of multiple languages in the same page are some of the challenges of historical newspaper layout analysis that are present in the GBN Dataset. There are also pages with a slightly transparent paper and some blurs, which makes the dataset more challenging.</p>
       <p>The dataset samples belong to the dbp digital collection from the dokumente.br initiative which has as one of the goals to digitally reconstruct the complete collection of these newspapers.</p>
       <p>The pages of eight different newspaper titles were scanned at 600 dpi and are available in PNG format. The following table shows the composition and distribution of these images from the dataset.</p>
@@ -298,23 +299,12 @@ It is a dataset created for evaluation of layout analysis methods.
       <p>The GBN Dataset is composed of:</p>
       <ul>
          <li>grayscale images of the pages;</li>
-         <li>ground truth files for each of them (XML PAGE[2] and TXT). T<span class="tlid-translation translation">
-               <span class="" title="">he </span>
-            </span>XML PAGE files were produced with the <a href="https://www.primaresearch.org/tools/Aletheia">Aletheia</a> software and <span class="tlid-translation translation">
-               <span class="" title="">contain</span>
-            </span> the geometric representation and the class (<strong>
-               <em>text</em>
-            </strong>, <strong>
-               <em>image</em>
-            </strong>, <em>
-               <strong>graphic</strong>
-            </em>or <em>
-               <strong>separator</strong>
-            </em>) of each region of the page. The TXT files <span class="tlid-translation translation">
-               <span class="" title="">contain</span>
-            </span> the coordinates of each foreground pixel along with its corresponding class:</li>
+         <li>ground truth files for each of them (XML PAGE[2]).<br/> 
+              The XML PAGE files were produced with the <a href="https://www.primaresearch.org/tools/Aletheia">Aletheia</a> software and 
+              contain the geometric representation of different classes (e.g. text, image, graphic or separator regions) of each region of the page. 
+          </li>
       </ul>
-      <h2>How to obtain the Dataset</h2>
+      <h2>How to obtain the origin Dataset</h2>
       <p>The GBN dataset is released for academic research only and is free to researchers from educational or research institutes for <strong>non-commercial purposes</strong>.</p>
       <p>
          <strong>Training GBN v1.0 Dataset</strong>: <a href="http://www.inf.ufpr.br/vri/databases/training-GBNv1.zip">training-GBNv1.zip</a>
