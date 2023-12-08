@@ -205,7 +205,7 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 63.0667px">3850 x 5480</td>
-               <td style="width: 67.7667px">&nbsp;19</td>
+               <td style="width: 67.7667px">19</td>
                <td style="width: 57.2333px">05</td>
             </tr>
             <tr>
@@ -214,17 +214,17 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 63.0667px"><span class="tlid-translation translation"><span class="" title="">from 2650 x 3950 to 5320 x 8050<br></span></span></td>
-               <td style="width: 67.7667px">&nbsp;15</td>
-               <td style="width: 57.2333px">&nbsp;03</td>
+               <td style="width: 67.7667px">15</td>
+               <td style="width: 57.2333px">03</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Pioner”</td>
                <td style="width: 88.35px">1888-1891</td>
                <td style="width: 60.4px">Fraktur / Latin</td>
                <td style="width: 87.4333px">Portuguese / German</td>
-               <td style="width: 63.0667px">&nbsp;7100 x 10590</td>
-               <td style="width: 67.7667px">&nbsp;17</td>
-               <td style="width: 57.2333px">&nbsp;05</td>
+               <td style="width: 63.0667px">7100 x 10590</td>
+               <td style="width: 67.7667px">17</td>
+               <td style="width: 57.2333px">05</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Sandwirt”</td>
@@ -232,8 +232,8 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 63.0667px">4250 x 6020</td>
-               <td style="width: 67.7667px">&nbsp;17</td>
-               <td style="width: 57.2333px">&nbsp;05</td>
+               <td style="width: 67.7667px">17</td>
+               <td style="width: 57.2333px">05</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Evangelissch-Lutherisches Kirchenblatt”</td>
@@ -241,8 +241,8 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 63.0667px">2590 x 3690<span style="color: #ff0000"><br></span></td>
-               <td style="width: 67.7667px">&nbsp;17</td>
-               <td style="width: 57.2333px">&nbsp;05</td>
+               <td style="width: 67.7667px">17</td>
+               <td style="width: 57.2333px">05</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Kolonie Zeitung”</td>
@@ -254,8 +254,8 @@ It is a dataset created for evaluation of layout analysis methods.
                   <p>6700 x 8400</p>
                   <p>7050 x 9300</p>
                </td>
-               <td style="width: 67.7667px">&nbsp;17</td>
-               <td style="width: 57.2333px">&nbsp;05</td>
+               <td style="width: 67.7667px">17</td>
+               <td style="width: 57.2333px">05</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Gemeindeblatt”</td>
@@ -263,8 +263,8 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 63.0667px">3850 x 5870<span style="color: #ff0000"><br></span></td>
-               <td style="width: 67.7667px">&nbsp;–</td>
-               <td style="width: 57.2333px">&nbsp;08</td>
+               <td style="width: 67.7667px">–</td>
+               <td style="width: 57.2333px">08</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Heimatbote”</td>
@@ -272,8 +272,8 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 63.0667px">3850 x 5480</td>
-               <td style="width: 67.7667px">&nbsp;–</td>
-               <td style="width: 57.2333px">&nbsp;14</td>
+               <td style="width: 67.7667px">–</td>
+               <td style="width: 57.2333px">14</td>
             </tr>
          </tbody>
       </table>
