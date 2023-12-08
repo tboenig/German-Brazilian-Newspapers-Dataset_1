@@ -285,7 +285,7 @@ It is a dataset created for evaluation of layout analysis methods.
       
       <h2>How to obtain the Dataset</h2>
       <p>The GBN dataset is released for academic research only and is free to researchers from educational or research institutes for <strong>non-commercial purposes</strong>.</p>
-      <p><strong>Training GBN v1.0 Dataset</strong>: </span></span><a href="http://www.inf.ufpr.br/vri/databases/training-GBNv1.zip">training-GBNv1.zip</a></p>
+      <p><strong>Training GBN v1.0 Dataset</strong>: <a href="http://www.inf.ufpr.br/vri/databases/training-GBNv1.zip">training-GBNv1.zip</a></p>
       <h2>References</h2>
       <ol>
          <li>Araujo, A. B.  &#8220;Análise de layout de página em jornais históricos germano-brasileiros,&#8221; Federal University of Paraná, Curitiba, 2019. <a href="https://acervodigital.ufpr.br/handle/1884/63706">https://acervodigital.ufpr.br/handle/1884/63706</a></li>
