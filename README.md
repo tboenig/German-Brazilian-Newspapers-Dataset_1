@@ -213,7 +213,7 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 88.35px">1911-1917</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px"><span class="tlid-translation translation"><span class="" title="">from 2650 x 3950 to 5320 x 8050<br></span></span></td>
+               <td style="width: 63.0667px">from 2650 x 3950 to 5320 x 8050</td>
                <td style="width: 67.7667px">15</td>
                <td style="width: 57.2333px">03</td>
             </tr>
@@ -240,7 +240,7 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 88.35px">1916-1919</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">2590 x 3690<span style="color: #ff0000"><br></span></td>
+               <td style="width: 63.0667px">2590 x 3690</td>
                <td style="width: 67.7667px">17</td>
                <td style="width: 57.2333px">05</td>
             </tr>
@@ -250,7 +250,7 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 60.4px">Fraktur / Latin</td>
                <td style="width: 87.4333px">Portuguese / German</td>
                <td style="width: 63.0667px">
-                  <p>5470 x 7010<span style="color: #ff0000"><br></span></p>
+                  <p>5470 x 7010</p>
                   <p>6700 x 8400</p>
                   <p>7050 x 9300</p>
                </td>
@@ -262,7 +262,7 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 88.35px">1938</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">3850 x 5870<span style="color: #ff0000"><br></span></td>
+               <td style="width: 63.0667px">3850 x 5870</td>
                <td style="width: 67.7667px">–</td>
                <td style="width: 57.2333px">08</td>
             </tr>
