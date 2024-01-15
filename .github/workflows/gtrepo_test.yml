@@ -115,16 +115,7 @@ jobs:
           - name: install jq
             run: sudo apt-get install jq
           
-          - name: install ocrd
-            run: |
-              git clone --depth 1 https://github.com/OCR-D/core
-              cd core
-              sudo make deps-ubuntu
-              make install
-              cd ..
-              rm -rf core
-              
-                
+                      
           - name: Download and install saxon
             run: |
               wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip 
@@ -225,7 +216,23 @@ jobs:
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=METSdefault repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=$GITHUB_REF_NAME \
               -s:scripts/gt-overview_metadata.xsl
-            shell: bash   
+            shell: bash
+
+          - name: generate CITATION.cff
+            run: |
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+              output=CITATION repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=$GITHUB_REF_NAME \
+              -s:scripts/gt-overview_metadata.xsl -o:rawCITATION.cff
+            shell: bash
+
+          - name: formating CITATION.cff
+            id: lookupSdkVersion2
+            uses: mikefarah/yq@master
+            with:
+              cmd: |
+                yq -I4 rawCITATION.cff > CITATION.cff
+                rm rawCITATION.cff
+            
         
           - name: Index-link
             run: |
@@ -233,9 +240,9 @@ jobs:
                 ln -s metadata.md index.md
       
                 
-          # Bagit
+          # Mets handling, Install OCR-D and Bagit 
       
-          - name: make del_invalidMets
+          - name: del invalidMets
             run: sh -ex scripts/data_mets.sh
             shell: bash    
           
@@ -243,9 +250,16 @@ jobs:
             run: sh -ex scripts/mets.sh
             shell: bash      
 
-          - name: make bagit
-            run: sh scripts/data_structure.sh
-            shell: bash
+          - name: install ocrd and bagit
+            run: |
+              sudo apt-get install -y python3 imagemagick libgeos-dev
+              python3 -m venv venv         
+              source venv/bin/activate     
+              pip install -U pip 'setuptools>=61'
+              pip install ocrd
+              ocrd --version
+              sh scripts/data_structure.sh   
+              shell: bash
       
       
           - name: copy css styles and yml files to ghout
@@ -281,7 +295,10 @@ jobs:
                   The 'ocrd.zip' files are ocr-d-bagit files.<br/>
                   The 'metadata-v${{ github.run_number }}.zip' file contains metadata for the Ground Truth corpus in both METS and JSON format.<br/>
                   The 'mets.xml' file enumerates all the documents and BagIt files contained within.<br/>
-                  The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.</dd>
+                  The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.<br/>
+                  The source-code-zip and source-code-tar.gz files only provide metadata, citations, license and readme information.<br/>
+                  If you want to use the source files, please clone the repository.
+                  </dd>
                   </dl>
                   </dl>
                 token: ${{ secrets.GITHUB_TOKEN }}
@@ -293,6 +310,14 @@ jobs:
               git add README.md
               git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
               git push origin HEAD:main
+
+          - name: Commit CITATION.cff
+            run: |
+              git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git config --local user.name "github-actions[bot]"
+              git add CITATION.cff
+              git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
+              git push origin HEAD:main    
       
       
           - name: Deploy GT-Overview to GitHub Pages 🚀
