@@ -96,44 +96,6 @@ It is a dataset created for evaluation of layout analysis methods.
             </thead>
             <tbody>
                <tr>
-                  <td>DerJugendfreund</td>
-                  <td>283</td>
-                  <td>2</td>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>15</td>
-               </tr>
-               <tr>
-                  <td>DerGemeindebote</td>
-                  <td>226</td>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-                  <td/>
-                  <td/>
-                  <td>30</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>19</td>
-               </tr>
-               <tr>
                   <td>DerSandwirt</td>
                   <td>274</td>
                   <td>14</td>
@@ -151,6 +113,25 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td/>
                   <td/>
                   <td>17</td>
+               </tr>
+               <tr>
+                  <td>DerJugendfreund</td>
+                  <td>283</td>
+                  <td>2</td>
+                  <td/>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>15</td>
                </tr>
                <tr>
                   <td>EvLuthKirchenblatt</td>
@@ -171,12 +152,31 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td/>
                   <td>17</td>
                </tr>
+               <tr>
+                  <td>DerGemeindebote</td>
+                  <td>226</td>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>19</td>
+               </tr>
             </tbody>
          </table>
       </div>
    </div>
    <div id="extent">
-   <h1>About</h1>
+      <h1>About</h1>
       <h2>The GBN Dataset (German-Brazilian historical Newspapers Dataset)</h2>
       <p>
          <img fetchpriority="high"
