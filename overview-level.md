@@ -109,8 +109,4 @@ It is a dataset created for evaluation of layout analysis methods.
          </td>
       </tr>
    </table>
-   <details>
-      <summary class="volume">Level Matrix Volume: German-Brazilian-Newspapers-Dataset Part 1</summary>
-      <table class="volumelevel"/>
-   </details>
 </div>
