@@ -262,19 +262,19 @@ jobs:
               pip install -U pip 'setuptools>=61'
               pip install ocrd
               ocrd --version
-              shell: bash
+              
 
           - name: make validMets  
             run: |
               source venv/bin/activate
               sh -ex scripts/mets.sh
-            shell: bash      
+                  
 
           - name: make bagit
             run: |
               source venv/bin/activate
               sh scripts/data_structure.sh
-            shell: bash    
+                
       
       
           - name: copy css styles and yml files to ghout
