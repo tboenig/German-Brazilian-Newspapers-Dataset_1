@@ -24,10 +24,13 @@
    <h2>Details</h2>
    <ul>
       <li>
-         <a href="metadata">Metadata</a>
+         <a href="metadata">Metadata about Ground Truth</a>
       </li>
       <li>
-         <a href="table">Compressed table view</a>
+         <a href="table">Compressed table view about regions</a>
+      </li>
+      <li>
+         <a href="overview-level">Level Matrix</a>
       </li>
    </ul>
 </div>
@@ -134,49 +137,11 @@
    </thead>
    <tbody>
       <tr>
-         <th>DerJugendfreund_1914_0604-p13.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1916_0809-p02.xml</th>
-         <td>11</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <th>DerSandwirt_1937_02-p033.xml</th>
+         <td>16</td>
          <td>1</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1916_0809-p01.xml</th>
-         <td>17</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>3</td>
@@ -191,9 +156,9 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerJugendfreund_1912_0410-p01.xml</th>
-         <td>13</td>
-         <td>1</td>
+         <th>DerSandwirt_1938_11-p276.xml</th>
+         <td>20</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -210,562 +175,49 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerJugendfreund_1917_0901-p01.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1913_0509-p33.xml</th>
-         <td>19</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1915_0710-p38.xml</th>
-         <td>22</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1916_0810-p01.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1912_0404-p01.xml</th>
-         <td>27</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1915_0702-p05.xml</th>
-         <td>14</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1916_0809-p04.xml</th>
+         <th>DerSandwirt_1940_11-p001.xml</th>
          <td>15</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1913_0501-p02.xml</th>
-         <td>23</td>
-         <td>1</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1912_0407-p03.xml</th>
-         <td>27</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1912_0407-p01.xml</th>
-         <td>21</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerJugendfreund_1913_0504-p16.xml</th>
-         <td>35</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p16.xml</th>
-         <td>11</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p22.xml</th>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p05.xml</th>
-         <td>12</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p09.xml</th>
-         <td>11</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p19.xml</th>
-         <td>16</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p02.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p23.xml</th>
-         <td>17</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p06.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p14.xml</th>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p20.xml</th>
-         <td>12</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p18.xml</th>
          <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
       </tr>
       <tr>
-         <th>DerGemeindebote-p12.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p17.xml</th>
-         <td>12</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p13.xml</th>
-         <td>12</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p07.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p15.xml</th>
-         <td>18</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p04.xml</th>
-         <td>16</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p11.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerGemeindebote-p08.xml</th>
+         <th>DerSandwirt_1937_02-p002.xml</th>
          <td>15</td>
          <td>0</td>
          <td>0</td>
-         <td>9</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerSandwirt_1937_01-p008.xml</th>
+         <td>7</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>2</td>
@@ -818,63 +270,6 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerSandwirt_1937_06-p001.xml</th>
-         <td>8</td>
-         <td>1</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerSandwirt_1938_11-p276.xml</th>
-         <td>20</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerSandwirt_1936_03-p062.xml</th>
-         <td>20</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>DerSandwirt_1937_01-p024.xml</th>
          <td>23</td>
          <td>1</td>
@@ -894,33 +289,14 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerSandwirt_1937_01-p015.xml</th>
-         <td>21</td>
+         <th>DerSandwirt_1937_06-p001.xml</th>
+         <td>8</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerSandwirt_1934_10-p002.xml</th>
-         <td>12</td>
-         <td>0</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -932,9 +308,9 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerSandwirt_1937_01-p008.xml</th>
+         <th>DerSandwirt_1934_10-p226.xml</th>
          <td>7</td>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -970,71 +346,33 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerSandwirt_1940_11-p001.xml</th>
-         <td>15</td>
+         <th>DerSandwirt_1936_03-p062.xml</th>
+         <td>20</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerSandwirt_1934_10-p002.xml</th>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerSandwirt_1937_02-p033.xml</th>
-         <td>16</td>
-         <td>1</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerSandwirt_1937_03-p001.xml</th>
-         <td>14</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerSandwirt_1934_10-p226.xml</th>
-         <td>7</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1065,6 +403,25 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>DerSandwirt_1937_01-p015.xml</th>
+         <td>21</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>DerSandwirt_1934_02-p001.xml</th>
          <td>14</td>
          <td>0</td>
@@ -1084,26 +441,7 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerSandwirt_1937_02-p002.xml</th>
-         <td>15</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kirchenblatt_19911101-p177.xml</th>
+         <th>DerSandwirt_1937_03-p001.xml</th>
          <td>14</td>
          <td>0</td>
          <td>0</td>
@@ -1122,14 +460,280 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19160601-p082.xml</th>
+         <th>DerJugendfreund_1916_0809-p02.xml</th>
+         <td>11</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1915_0702-p05.xml</th>
+         <td>14</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1912_0404-p01.xml</th>
+         <td>27</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1912_0410-p01.xml</th>
+         <td>13</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1912_0407-p03.xml</th>
+         <td>27</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1914_0604-p13.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1916_0809-p04.xml</th>
+         <td>15</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1913_0501-p02.xml</th>
+         <td>23</td>
+         <td>1</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1917_0901-p01.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1916_0810-p01.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1912_0407-p01.xml</th>
+         <td>21</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1913_0504-p16.xml</th>
+         <td>35</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1916_0809-p01.xml</th>
+         <td>17</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1915_0710-p38.xml</th>
+         <td>22</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerJugendfreund_1913_0509-p33.xml</th>
          <td>19</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1141,28 +745,28 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19170701-p099.xml</th>
-         <td>38</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kirchenblatt_19161101-p165.xml</th>
+         <th>Kirchenblatt_19171015-p159.xml</th>
          <td>16</td>
          <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kirchenblatt_19171015-p156.xml</th>
+         <td>12</td>
+         <td>1</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
@@ -1198,14 +802,52 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19160601-p081.xml</th>
-         <td>14</td>
+         <th>Kirchenblatt_19160601-p082.xml</th>
+         <td>19</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kirchenblatt_19170201-p017.xml</th>
+         <td>15</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kirchenblatt_19170201-p021.xml</th>
+         <td>26</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1225,6 +867,25 @@
          <td>0</td>
          <td>0</td>
          <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kirchenblatt_19170201-p018.xml</th>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1274,7 +935,45 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19171031-p162.xml</th>
+         <th>Kirchenblatt_19170701-p099.xml</th>
+         <td>38</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kirchenblatt_19911101-p177.xml</th>
+         <td>14</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kirchenblatt_19161101-p165.xml</th>
          <td>16</td>
          <td>0</td>
          <td>0</td>
@@ -1293,8 +992,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19170201-p021.xml</th>
-         <td>26</td>
+         <th>Kirchenblatt_19170701-p101.xml</th>
+         <td>33</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -1331,65 +1030,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19171015-p159.xml</th>
-         <td>16</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kirchenblatt_19170201-p018.xml</th>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kirchenblatt_19170701-p101.xml</th>
-         <td>33</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kirchenblatt_19170201-p017.xml</th>
-         <td>15</td>
+         <th>Kirchenblatt_19160601-p081.xml</th>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -1407,14 +1049,375 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kirchenblatt_19171015-p156.xml</th>
+         <th>Kirchenblatt_19171031-p162.xml</th>
+         <td>16</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p22.xml</th>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p14.xml</th>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p09.xml</th>
+         <td>11</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p20.xml</th>
          <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p12.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p18.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p13.xml</th>
+         <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p16.xml</th>
+         <td>11</td>
+         <td>0</td>
          <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p07.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p17.xml</th>
+         <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p19.xml</th>
+         <td>16</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p15.xml</th>
+         <td>18</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p23.xml</th>
+         <td>17</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p02.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p06.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p05.xml</th>
+         <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p11.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p08.xml</th>
+         <td>15</td>
+         <td>0</td>
+         <td>0</td>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerGemeindebote-p04.xml</th>
+         <td>16</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
