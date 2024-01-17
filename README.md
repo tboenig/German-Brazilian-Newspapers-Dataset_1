@@ -182,11 +182,11 @@ It is a dataset created for evaluation of layout analysis methods.
          <img fetchpriority="high"
               decoding="async"
               class="size-full wp-image-566 aligncenter"
-              src="http://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase.png"
+              src="GBNdatabase.png"
               alt=""
               width="1372"
               height="457"
-              srcset="https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase.png 1372w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-300x100.png 300w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-768x256.png 768w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-1024x341.png 1024w, https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2019/01/GBNdatabase-360x120.png 360w"
+              srcset="GBNdatabase.png 1372w, GBNdatabase-300x100.png 300w, GBNdatabase-768x256.png 768w, GBNdatabase-1024x341.png 1024w, GBNdatabase-360x120.png 360w"
               sizes="(max-width: 1372px) 100vw, 1372px"/>
       </p>
       <p>The GBN Dataset (Part 1 and Part 2)[1] consists of 152 grayscale page images from eight different German-Brazilian historical newspapers, along with their binarized images and ground files. It is a dataset created for evaluation of layout analysis methods.</p>
