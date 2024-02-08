@@ -96,14 +96,14 @@ It is a dataset created for evaluation of layout analysis methods.
             </thead>
             <tbody>
                <tr>
-                  <td>DerSandwirt</td>
-                  <td>274</td>
-                  <td>14</td>
+                  <td>EvLuthKirchenblatt</td>
+                  <td>330</td>
+                  <td>2</td>
                   <td/>
-                  <td>24</td>
+                  <td>19</td>
                   <td/>
                   <td/>
-                  <td>65</td>
+                  <td>34</td>
                   <td/>
                   <td/>
                   <td/>
@@ -134,25 +134,6 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td>15</td>
                </tr>
                <tr>
-                  <td>EvLuthKirchenblatt</td>
-                  <td>330</td>
-                  <td>2</td>
-                  <td/>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td>34</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-               </tr>
-               <tr>
                   <td>DerGemeindebote</td>
                   <td>226</td>
                   <td/>
@@ -170,6 +151,25 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td/>
                   <td/>
                   <td>19</td>
+               </tr>
+               <tr>
+                  <td>DerSandwirt</td>
+                  <td>274</td>
+                  <td>14</td>
+                  <td/>
+                  <td>24</td>
+                  <td/>
+                  <td/>
+                  <td>65</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>17</td>
                </tr>
             </tbody>
          </table>
