@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator>VRI/UFPR</Creator>
-	<Created>2018-12-19T20:16:13</Created>
-	<LastChange>2018-12-20T15:42:46</LastChange></Metadata>
+	<Created>2018-12-19T19:16:13</Created>
+	<LastChange>2024-02-19T16:43:27</LastChange></Metadata>
 	<Page imageFilename="DerGemeindebote-p05.png" imageWidth="3850" imageHeight="5480">
 	<AlternativeImage filename="DerGemeindebote-p05-bw.png" comments="B/W"/>
-	<TextRegion id="r0" type="caption">
+	<TextRegion id="r0" type="heading">
 	<Coords points="785,576 785,359 3090,359 3090,576"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
@@ -42,8 +42,8 @@
 	<Coords points="592,1733 592,2393 815,2393 816,1733"/></GraphicRegion>
 	<GraphicRegion id="r10">
 	<Coords points="3055,1743 3055,2394 3272,2394 3272,1743"/></GraphicRegion>
-	<GraphicRegion id="r11">
-	<Coords points="375,2525 375,2580 3492,2580 3492,2525"/></GraphicRegion>
+	<SeparatorRegion id="r11">
+	<Coords points="375,2525 375,2580 3492,2580 3492,2525"/></SeparatorRegion>
 	<TextRegion id="r13" type="paragraph">
 	<Coords points="385,2770 385,2620 3022,2620 3022,2770"/>
 	<TextEquiv>
@@ -63,4 +63,6 @@
 	<TextRegion id="r16" type="paragraph">
 	<Coords points="1972,5002 1972,4438 2151,4437 2150,4337 3491,4337 3491,5002"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r17" type="stamp">
+	<Coords points="1149,5017 1149,5479 2905,5479 2905,5017"/></GraphicRegion></Page></PcGts>

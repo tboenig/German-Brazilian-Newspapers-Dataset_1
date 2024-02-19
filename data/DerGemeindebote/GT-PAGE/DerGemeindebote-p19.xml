@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator>VRI/UFPR</Creator>
-	<Created>2018-12-19T21:46:45</Created>
-	<LastChange>2018-12-20T15:20:48</LastChange></Metadata>
+	<Created>2018-12-19T20:46:45</Created>
+	<LastChange>2024-02-19T16:43:28</LastChange></Metadata>
 	<Page imageFilename="DerGemeindebote-p19.png" imageWidth="3850" imageHeight="5480">
 	<AlternativeImage filename="DerGemeindebote-p19-bw.png" comments="B/W"/>
-	<TextRegion id="r0" type="paragraph">
+	<TextRegion id="r0" type="page-number">
 	<Coords points="510,366 510,462 896,462 896,366"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r1" type="paragraph">
+	<TextRegion id="r1" type="header">
 	<Coords points="1633,366 1633,462 2401,462 2401,366"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>

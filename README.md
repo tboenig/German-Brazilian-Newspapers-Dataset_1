@@ -189,7 +189,7 @@ It is a dataset created for evaluation of layout analysis methods.
               srcset="GBNdatabase.png 1372w, GBNdatabase-300x100.png 300w, GBNdatabase-768x256.png 768w, GBNdatabase-1024x341.png 1024w, GBNdatabase-360x120.png 360w"
               sizes="(max-width: 1372px) 100vw, 1372px"/>
       </p>
-      <p>The GBN Dataset (Part 1 and Part 2)[1] consists of 152 grayscale page images from eight different German-Brazilian historical newspapers, along with their binarized images and ground files. It is a dataset created for evaluation of layout analysis methods.</p>
+      <p>The GBN Dataset (Part 1 and Part 2)[1] consists of 102 page images from eight different German-Brazilian historical newspapers, along with their binarized images and ground files. It is a dataset created for evaluation of layout analysis methods.</p>
       <p>Complex layouts, poor preservation conditions of the paper, old spelling, different font sizes and the presence of multiple languages in the same page are some of the challenges of historical newspaper layout analysis that are present in the GBN Dataset. There are also pages with a slightly transparent paper and some blurs, which makes the dataset more challenging.</p>
       <p>The dataset samples belong to the dbp digital collection from the dokumente.br initiative which has as one of the goals to digitally reconstruct the complete collection of these newspapers.</p>
       <p>The pages of eight different newspaper titles were scanned at 600 dpi and are available in PNG format. The following table shows the composition and distribution of these images from the dataset.</p>
@@ -208,91 +208,69 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 87.4333px;text-align: center">
                   <strong>Language</strong>
                </td>
-               <td style="width: 63.0667px;text-align: center">
+               <td style="width: 83.0667px;text-align: center">
                   <strong>Image size (in pixels)</strong>
                </td>
-               <td style="width: 67.7667px;text-align: center">
-                  <strong># training pages</strong>
-               </td>
-               <td style="width: 57.2333px;text-align: center">
-                  <strong># testing pages</strong>
-               </td>
-            </tr>
+               </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Gemeindebote”</td>
                <td style="width: 88.35px">1935-1938</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">3850 x 5480</td>
-               <td style="width: 67.7667px">19</td>
-               <td style="width: 57.2333px">05</td>
-            </tr>
+               <td style="width: 83.0667px">3850 x 5480</td>
+               </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Jugendfreund”</td>
                <td style="width: 88.35px">1911-1917</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">from 2650 x 3950 to 5320 x 8050</td>
-               <td style="width: 67.7667px">15</td>
-               <td style="width: 57.2333px">03</td>
+               <td style="width: 83.0667px">from 2650 x 3950 to 5320 x 8050</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Pioner”</td>
                <td style="width: 88.35px">1888-1891</td>
                <td style="width: 60.4px">Fraktur / Latin</td>
                <td style="width: 87.4333px">Portuguese / German</td>
-               <td style="width: 63.0667px">7100 x 10590</td>
-               <td style="width: 67.7667px">17</td>
-               <td style="width: 57.2333px">05</td>
+               <td style="width: 83.0667px">7100 x 10590</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Sandwirt”</td>
                <td style="width: 88.35px">1934-1940</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">4250 x 6020</td>
-               <td style="width: 67.7667px">17</td>
-               <td style="width: 57.2333px">05</td>
+               <td style="width: 83.0667px">4250 x 6020</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Evangelissch-Lutherisches Kirchenblatt”</td>
                <td style="width: 88.35px">1916-1919</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">2590 x 3690</td>
-               <td style="width: 67.7667px">17</td>
-               <td style="width: 57.2333px">05</td>
+               <td style="width: 83.0667px">2590 x 3690</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Kolonie Zeitung”</td>
                <td style="width: 88.35px">1863-1889</td>
                <td style="width: 60.4px">Fraktur / Latin</td>
                <td style="width: 87.4333px">Portuguese / German</td>
-               <td style="width: 63.0667px">
+               <td style="width: 83.0667px">
                   <p>5470 x 7010</p>
                   <p>6700 x 8400</p>
                   <p>7050 x 9300</p>
                </td>
-               <td style="width: 67.7667px">17</td>
-               <td style="width: 57.2333px">05</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Gemeindeblatt”</td>
                <td style="width: 88.35px">1938</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">3850 x 5870</td>
-               <td style="width: 67.7667px">–</td>
-               <td style="width: 57.2333px">08</td>
+               <td style="width: 83.0667px">3850 x 5870</td>
             </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Heimatbote”</td>
                <td style="width: 88.35px">1936</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
-               <td style="width: 63.0667px">3850 x 5480</td>
-               <td style="width: 67.7667px">–</td>
-               <td style="width: 57.2333px">14</td>
+               <td style="width: 83.0667px">3850 x 5480</td>
             </tr>
          </tbody>
       </table>

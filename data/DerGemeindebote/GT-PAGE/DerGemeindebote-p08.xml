@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator>VRI/UFPR</Creator>
-	<Created>2018-12-19T17:36:50</Created>
-	<LastChange>2018-12-19T17:36:50</LastChange></Metadata>
+	<Created>2018-12-19T16:36:50</Created>
+	<LastChange>2024-02-19T16:43:28</LastChange></Metadata>
 	<Page imageFilename="DerGemeindebote-p08.png" imageWidth="3850" imageHeight="5480">
 	<AlternativeImage filename="DerGemeindebote-p08-bw.png" comments="B/W"/>
-	<TextRegion id="r0" type="paragraph">
+	<TextRegion id="r0" type="heading">
 	<Coords points="535,469 535,378 914,378 914,469"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r1" type="paragraph">
+	<TextRegion id="r1" type="header">
 	<Coords points="1646,473 1646,378 2412,378 2412,473"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
@@ -32,20 +32,20 @@
 	<Coords points="407,1651 407,1280 1925,1280 1925,1651"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r7">
-	<Coords points="1046,1676 1046,1705 1278,1705 1278,1676"/></GraphicRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="1046,1676 1046,1705 1278,1705 1278,1676"/></SeparatorRegion>
 	<TextRegion id="r8" type="paragraph">
 	<Coords points="411,3269 411,1728 1919,1728 1919,3269"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r9">
-	<Coords points="1050,3297 1050,3330 1283,3330 1283,3297"/></GraphicRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="1050,3297 1050,3330 1283,3330 1283,3297"/></SeparatorRegion>
 	<TextRegion id="r10" type="paragraph">
 	<Coords points="409,3371 409,4640 1923,4640 1923,3371"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r11">
-	<Coords points="1050,4661 1050,4697 1285,4697 1285,4661"/></GraphicRegion>
+	<SeparatorRegion id="r11">
+	<Coords points="1050,4661 1050,4697 1285,4697 1285,4661"/></SeparatorRegion>
 	<TextRegion id="r12" type="paragraph">
 	<Coords points="500,4819 500,4719 1923,4719 1923,4819"/>
 	<TextEquiv>
@@ -54,26 +54,26 @@
 	<Coords points="2007,630 2007,2350 3535,2350 3535,630"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r14">
-	<Coords points="2652,2376 2652,2407 2888,2407 2888,2376"/></GraphicRegion>
+	<SeparatorRegion id="r14">
+	<Coords points="2652,2376 2652,2407 2888,2407 2888,2376"/></SeparatorRegion>
 	<TextRegion id="r15" type="paragraph">
 	<Coords points="2007,2430 2007,3254 3535,3254 3535,2430"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r16">
-	<Coords points="2654,3280 2654,3307 2890,3307 2890,3280"/></GraphicRegion>
+	<SeparatorRegion id="r16">
+	<Coords points="2654,3280 2654,3307 2890,3307 2890,3280"/></SeparatorRegion>
 	<TextRegion id="r17" type="paragraph">
 	<Coords points="2019,3971 2019,3333 3538,3333 3538,3971"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r18">
-	<Coords points="2660,4001 2660,4026 2887,4026 2887,4001"/></GraphicRegion>
+	<SeparatorRegion id="r18">
+	<Coords points="2660,4001 2660,4026 2887,4026 2887,4001"/></SeparatorRegion>
 	<TextRegion id="r19" type="paragraph">
 	<Coords points="2017,4514 2017,4058 3537,4058 3537,4514"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<GraphicRegion id="r20">
-	<Coords points="2664,4539 2664,4567 2889,4567 2889,4539"/></GraphicRegion>
+	<SeparatorRegion id="r20">
+	<Coords points="2664,4539 2664,4567 2889,4567 2889,4539"/></SeparatorRegion>
 	<TextRegion id="r21" type="paragraph">
 	<Coords points="2019,4821 2019,4676 2203,4675 2204,4589 3537,4589 3535,4746 2625,4742 2435,4732 2435,4821"/>
 	<TextEquiv>
