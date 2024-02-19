@@ -56,6 +56,11 @@ Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
    </details>
    <details>
+      <summary>condition/wear/additions/informative/stamps</summary>
+      <p>
+         <strong>Description: </strong>The medium was stamped</p>
+   </details>
+   <details>
       <summary>content-encoding/structured</summary>
       <p>
          <strong>Description: </strong>E.g. XML</p>
@@ -90,6 +95,11 @@ An image database</p>
          <strong>Description: </strong>
                         Description coming soon.
                     </p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/structural/running-titles</summary>
+      <p>
+         <strong>Description: </strong>Titles repeated each page</p>
    </details>
    <details>
       <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
@@ -130,7 +140,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/tag/t1.0.25">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 35_t1.0.25</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/tag/t1.0.26">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 36_t1.0.26</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases">Version archive</a>
@@ -293,10 +303,10 @@ An image database</p>
             <td>1113</td>
             <td>18</td>
             <td>0</td>
-            <td>86</td>
+            <td>71</td>
             <td>0</td>
             <td>0</td>
-            <td>157</td>
+            <td>176</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>

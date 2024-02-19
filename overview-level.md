@@ -46,8 +46,8 @@ It is a dataset created for evaluation of layout analysis methods.
                <li class="key16">68</li>
                <li class="key1">1113</li>
                <li class="key2">18</li>
-               <li class="key4">86</li>
-               <li class="key7">157</li>
+               <li class="key4">71</li>
+               <li class="key7">176</li>
             </ul>
             <details>
                <summary class="infolegend">Legend</summary>

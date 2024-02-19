@@ -56,8 +56,8 @@
   "gtvolume": {
     "TxtRegion": "1113",
     "ImgRegion": "18",
-    "GraphRegion": "86",
-    "SepRegion": "157",
+    "GraphRegion": "71",
+    "SepRegion": "176",
     "Page": "68"
   },
   "labelling": [
@@ -70,6 +70,8 @@
     "contentOfInterest/visual/image",
     "granularity/physical/document-related/page",
     "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/structural/running-titles",
+    "condition/wear/additions/informative/stamps",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",
     "data-attributes/document-related/visual/text/font/typeface/antiqua"
   ]
