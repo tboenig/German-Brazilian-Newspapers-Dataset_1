@@ -25,7 +25,7 @@ jobs:
         steps:
           - name: Git checkout
             id: step1
-            uses: actions/checkout@v3
+            uses: actions/checkout@v4
 
            # Installation Styles and Saxon
       
@@ -92,7 +92,7 @@ jobs:
         steps:
   
           - name: Git checkout
-            uses: actions/checkout@v3
+            uses: actions/checkout@v4
       
             # Installation Styles
             
@@ -170,9 +170,9 @@ jobs:
 
           - name: Leveling the volume and documents 
             run: |
-              java -jar saxon-he-12.3.jar -xsl:scripts/parser.xsl \
+              java -jar saxon-he-12.3.jar -xsl:scripts/gt-level_parser.xsl \
               repoName=$GITHUB_REPOSITORY \
-              -s:scripts/parser.xsl -o:ghout/overview-level.md
+              -s:scripts/gt-level_parser.xsl -o:ghout/overview-level.md
             shell: bash
       
           - name: generate mets.sh
