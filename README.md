@@ -42,7 +42,7 @@ It is a dataset created for evaluation of layout analysis methods.
             <th>MusicRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
-            <th>UnkownRegion</th>
+            <th>UnknownRegion</th>
             <th>CustomRegion</th>
             <th>TextLine</th>
             <th>Page</th>
@@ -88,7 +88,7 @@ It is a dataset created for evaluation of layout analysis methods.
                   <th>MusicRegion</th>
                   <th>AdRegion</th>
                   <th>NoiseRegion</th>
-                  <th>UnkownRegion</th>
+                  <th>UnknownRegion</th>
                   <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
@@ -115,14 +115,14 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td>15</td>
                </tr>
                <tr>
-                  <td>EvLuthKirchenblatt</td>
-                  <td>330</td>
-                  <td>2</td>
+                  <td>DerLandwirt</td>
+                  <td>274</td>
+                  <td>14</td>
                   <td/>
-                  <td>19</td>
+                  <td>24</td>
                   <td/>
                   <td/>
-                  <td>34</td>
+                  <td>65</td>
                   <td/>
                   <td/>
                   <td/>
@@ -153,14 +153,14 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td>19</td>
                </tr>
                <tr>
-                  <td>DerSandwirt</td>
-                  <td>274</td>
-                  <td>14</td>
+                  <td>EvLuthKirchenblatt</td>
+                  <td>330</td>
+                  <td>2</td>
                   <td/>
-                  <td>24</td>
+                  <td>19</td>
                   <td/>
                   <td/>
-                  <td>65</td>
+                  <td>34</td>
                   <td/>
                   <td/>
                   <td/>
