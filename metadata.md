@@ -140,7 +140,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/tag/t1.0.26">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 36_t1.0.26</a>
+         <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/tag/t1.0.27">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 37_t1.0.27</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases">Version archive</a>
@@ -209,10 +209,10 @@ An image database</p>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
                         target="_blank">NoiseRegion</a>
                   </dd>
-                  <dt>UnkownRegion</dt>
+                  <dt>UnknownRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySonstiges.html"
-                        target="_blank">UnkownRegion</a>
+                        target="_blank">UnknownRegion</a>
                   </dd>
                   <dt>CustomRegion</dt>
                   <dd>CustomRegion</dd>
@@ -262,7 +262,7 @@ An image database</p>
                   <i>NoiseRegion</i>
                </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
-                  <i>UnkownRegion</i>
+                  <i>UnknownRegion</i>
                </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
                   <i>CustomRegion</i>
@@ -292,7 +292,7 @@ An image database</p>
             <th>MusicRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
-            <th>UnkownRegion</th>
+            <th>UnknownRegion</th>
             <th>CustomRegion</th>
             <th>TextLine</th>
             <th>Page</th>

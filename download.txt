@@ -1,1 +1,4 @@
-https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.26/DerJugendfreund.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.26/EvLuthKirchenblatt.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.26/DerGemeindebote.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.26/DerSandwirt.ocrd.zip
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.27/DerJugendfreund.ocrd.zip
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.27/DerLandwirt.ocrd.zip
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.27/DerGemeindebote.ocrd.zip
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/releases/download/t1.0.27/EvLuthKirchenblatt.ocrd.zip

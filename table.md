@@ -109,10 +109,10 @@ It is a dataset created for evaluation of layout analysis methods.
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
                            target="_blank">NoiseRegion</a>
                      </dd>
-                     <dt>UnkownRegion</dt>
+                     <dt>UnknownRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lySonstiges.html"
-                           target="_blank">UnkownRegion</a>
+                           target="_blank">UnknownRegion</a>
                      </dd>
                      <dt>CustomRegion</dt>
                      <dd>CustomRegion</dd>
@@ -158,7 +158,7 @@ It is a dataset created for evaluation of layout analysis methods.
                      <i>NoiseRegion</i>
                   </button>
                   <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
-                     <i>UnkownRegion</i>
+                     <i>UnknownRegion</i>
                   </button>
                   <button onclick="document.getElementById('table_id').classList.toggle('hide15')">
                      <i>CustomRegion</i>
@@ -183,7 +183,7 @@ It is a dataset created for evaluation of layout analysis methods.
                <th>MusicRegion</th>
                <th>AdRegion</th>
                <th>NoiseRegion</th>
-               <th>UnkownRegion</th>
+               <th>UnknownRegion</th>
                <th>CustomRegion</th>
                <th>TextLine</th>
                <th>Page</th>
@@ -227,7 +227,7 @@ It is a dataset created for evaluation of layout analysis methods.
                               <th>MusicRegion</th>
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
+                              <th>UnknownRegion</th>
                               <th>CustomRegion</th>
                               <th>TextLine</th>
                               <th>Page</th>
@@ -235,45 +235,7 @@ It is a dataset created for evaluation of layout analysis methods.
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0404-p01.xml">DerJugendfreund_1912_0404-p01.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0410-p01.xml">DerJugendfreund_1912_0410-p01.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1914_0604-p13.xml">DerJugendfreund_1914_0604-p13.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1914_0604-p13.xml">DerJugendfreund_1914_0604-p13.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -292,178 +254,7 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0407-p03.xml">DerJugendfreund_1912_0407-p03.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0509-p33.xml">DerJugendfreund_1913_0509-p33.xml</a>
-                           </td>
-                           <td>19</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1915_0710-p38.xml">DerJugendfreund_1915_0710-p38.xml</a>
-                           </td>
-                           <td>22</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1917_0901-p01.xml">DerJugendfreund_1917_0901-p01.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0504-p16.xml">DerJugendfreund_1913_0504-p16.xml</a>
-                           </td>
-                           <td>35</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p02.xml">DerJugendfreund_1916_0809-p02.xml</a>
-                           </td>
-                           <td>11</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p01.xml">DerJugendfreund_1916_0809-p01.xml</a>
-                           </td>
-                           <td>17</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0407-p01.xml">DerJugendfreund_1912_0407-p01.xml</a>
-                           </td>
-                           <td>21</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0810-p01.xml">DerJugendfreund_1916_0810-p01.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0501-p02.xml">DerJugendfreund_1913_0501-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0501-p02.xml">DerJugendfreund_1913_0501-p02.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -482,7 +273,197 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p04.xml">DerJugendfreund_1916_0809-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p01.xml">DerJugendfreund_1916_0809-p01.xml</a>
+                           </td>
+                           <td>17</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0407-p03.xml">DerJugendfreund_1912_0407-p03.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1917_0901-p01.xml">DerJugendfreund_1917_0901-p01.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0810-p01.xml">DerJugendfreund_1916_0810-p01.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0410-p01.xml">DerJugendfreund_1912_0410-p01.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0509-p33.xml">DerJugendfreund_1913_0509-p33.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1915_0702-p05.xml">DerJugendfreund_1915_0702-p05.xml</a>
+                           </td>
+                           <td>14</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1913_0504-p16.xml">DerJugendfreund_1913_0504-p16.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0404-p01.xml">DerJugendfreund_1912_0404-p01.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p02.xml">DerJugendfreund_1916_0809-p02.xml</a>
+                           </td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1916_0809-p04.xml">DerJugendfreund_1916_0809-p04.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -501,9 +482,28 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1915_0702-p05.xml">DerJugendfreund_1915_0702-p05.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1915_0710-p38.xml">DerJugendfreund_1915_0710-p38.xml</a>
                            </td>
-                           <td>14</td>
+                           <td>22</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerJugendfreund/GT-PAGE/DerJugendfreund_1912_0407-p01.xml">DerJugendfreund_1912_0407-p01.xml</a>
+                           </td>
+                           <td>21</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -523,14 +523,14 @@ It is a dataset created for evaluation of layout analysis methods.
                </td>
             </tr>
             <tr>
-               <th>EvLuthKirchenblatt</th>
-               <td>330</td>
-               <td>2</td>
+               <th>DerLandwirt</th>
+               <td>274</td>
+               <td>14</td>
                <td>0</td>
-               <td>19</td>
+               <td>24</td>
                <td>0</td>
                <td>0</td>
-               <td>34</td>
+               <td>65</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -559,7 +559,7 @@ It is a dataset created for evaluation of layout analysis methods.
                               <th>MusicRegion</th>
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
+                              <th>UnknownRegion</th>
                               <th>CustomRegion</th>
                               <th>TextLine</th>
                               <th>Page</th>
@@ -567,15 +567,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19911101-p182.xml">Kirchenblatt_19911101-p182.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_02-p033.xml">DerLandwirt_1937_02-p033.xml</a>
                            </td>
-                           <td>24</td>
-                           <td>0</td>
+                           <td>16</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -586,10 +586,10 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p087.xml">Kirchenblatt_19160601-p087.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1934_10-p226.xml">DerLandwirt_1934_10-p226.xml</a>
                            </td>
-                           <td>27</td>
-                           <td>0</td>
+                           <td>7</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -605,83 +605,7 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19911101-p177.xml">Kirchenblatt_19911101-p177.xml</a>
-                           </td>
-                           <td>14</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p081.xml">Kirchenblatt_19160601-p081.xml</a>
-                           </td>
-                           <td>14</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170701-p101.xml">Kirchenblatt_19170701-p101.xml</a>
-                           </td>
-                           <td>33</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171015-p159.xml">Kirchenblatt_19171015-p159.xml</a>
-                           </td>
-                           <td>16</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170201-p017.xml">Kirchenblatt_19170201-p017.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1940_11-p001.xml">DerLandwirt_1940_11-p001.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -689,7 +613,7 @@ It is a dataset created for evaluation of layout analysis methods.
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>4</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -700,36 +624,17 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170701-p097.xml">Kirchenblatt_19170701-p097.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1936_03-p062.xml">DerLandwirt_1936_03-p062.xml</a>
                            </td>
-                           <td>19</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>20</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p085.xml">Kirchenblatt_19160601-p085.xml</a>
-                           </td>
-                           <td>20</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -738,15 +643,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170701-p099.xml">Kirchenblatt_19170701-p099.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1938_11-p276.xml">DerLandwirt_1938_11-p276.xml</a>
                            </td>
-                           <td>38</td>
+                           <td>20</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -757,34 +662,53 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170201-p021.xml">Kirchenblatt_19170201-p021.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_01-p024.xml">DerLandwirt_1937_01-p024.xml</a>
+                           </td>
+                           <td>23</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1938_11-p281.xml">DerLandwirt_1938_11-p281.xml</a>
+                           </td>
+                           <td>14</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_01.xml">DerLandwirt_1937_01.xml</a>
                            </td>
                            <td>26</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>10</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171031-p162.xml">Kirchenblatt_19171031-p162.xml</a>
-                           </td>
-                           <td>16</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -795,12 +719,31 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171015-p153.xml">Kirchenblatt_19171015-p153.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_01-p008.xml">DerLandwirt_1937_01-p008.xml</a>
                            </td>
-                           <td>11</td>
+                           <td>7</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_06-p001.xml">DerLandwirt_1937_06-p001.xml</a>
+                           </td>
+                           <td>8</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>5</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>4</td>
@@ -814,15 +757,34 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171015-p156.xml">Kirchenblatt_19171015-p156.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1940_11-p211.xml">DerLandwirt_1940_11-p211.xml</a>
+                           </td>
+                           <td>15</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1934_10-p002.xml">DerLandwirt_1934_10-p002.xml</a>
                            </td>
                            <td>12</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -833,15 +795,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19161101-p165.xml">Kirchenblatt_19161101-p165.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_02-p002.xml">DerLandwirt_1937_02-p002.xml</a>
                            </td>
-                           <td>16</td>
+                           <td>15</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -852,15 +814,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170201-p018.xml">Kirchenblatt_19170201-p018.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1940_11.xml">DerLandwirt_1940_11.xml</a>
                            </td>
-                           <td>10</td>
+                           <td>27</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -871,15 +833,53 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p082.xml">Kirchenblatt_19160601-p082.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_03-p001.xml">DerLandwirt_1937_03-p001.xml</a>
                            </td>
-                           <td>19</td>
+                           <td>14</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1934_02-p001.xml">DerLandwirt_1934_02-p001.xml</a>
+                           </td>
+                           <td>14</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerLandwirt/GT-PAGE/DerLandwirt_1937_01-p015.xml">DerLandwirt_1937_01-p015.xml</a>
+                           </td>
+                           <td>21</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -929,7 +929,7 @@ It is a dataset created for evaluation of layout analysis methods.
                               <th>MusicRegion</th>
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
+                              <th>UnknownRegion</th>
                               <th>CustomRegion</th>
                               <th>TextLine</th>
                               <th>Page</th>
@@ -937,7 +937,7 @@ It is a dataset created for evaluation of layout analysis methods.
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p07.xml">DerGemeindebote-p07.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p07.xml">DerGemeindebote-p07.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -956,159 +956,7 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p05.xml">DerGemeindebote-p05.xml</a>
-                           </td>
-                           <td>12</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p06.xml">DerGemeindebote-p06.xml</a>
-                           </td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p02.xml">DerGemeindebote-p02.xml</a>
-                           </td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p09.xml">DerGemeindebote-p09.xml</a>
-                           </td>
-                           <td>11</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p16.xml">DerGemeindebote-p16.xml</a>
-                           </td>
-                           <td>11</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p17.xml">DerGemeindebote-p17.xml</a>
-                           </td>
-                           <td>12</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p15.xml">DerGemeindebote-p15.xml</a>
-                           </td>
-                           <td>18</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p13.xml">DerGemeindebote-p13.xml</a>
-                           </td>
-                           <td>12</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p14.xml">DerGemeindebote-p14.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p22.xml">DerGemeindebote-p22.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -1116,63 +964,6 @@ It is a dataset created for evaluation of layout analysis methods.
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p12.xml">DerGemeindebote-p12.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p11.xml">DerGemeindebote-p11.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p04.xml">DerGemeindebote-p04.xml</a>
-                           </td>
-                           <td>16</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
@@ -1184,7 +975,83 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p20.xml">DerGemeindebote-p20.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p13.xml">DerGemeindebote-p13.xml</a>
+                           </td>
+                           <td>12</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p02.xml">DerGemeindebote-p02.xml</a>
+                           </td>
+                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml">DerGemeindebote-p18.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p16.xml">DerGemeindebote-p16.xml</a>
+                           </td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p20.xml">DerGemeindebote-p20.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -1203,15 +1070,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p08.xml">DerGemeindebote-p08.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p09.xml">DerGemeindebote-p09.xml</a>
                            </td>
-                           <td>15</td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>9</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1222,7 +1089,7 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p23.xml">DerGemeindebote-p23.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p23.xml">DerGemeindebote-p23.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -1241,9 +1108,28 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p22.xml">DerGemeindebote-p22.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p14.xml">DerGemeindebote-p14.xml</a>
                            </td>
                            <td>10</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p04.xml">DerGemeindebote-p04.xml</a>
+                           </td>
+                           <td>16</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1260,7 +1146,121 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p19.xml">DerGemeindebote-p19.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p11.xml">DerGemeindebote-p11.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p17.xml">DerGemeindebote-p17.xml</a>
+                           </td>
+                           <td>12</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p06.xml">DerGemeindebote-p06.xml</a>
+                           </td>
+                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p08.xml">DerGemeindebote-p08.xml</a>
+                           </td>
+                           <td>15</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p12.xml">DerGemeindebote-p12.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p05.xml">DerGemeindebote-p05.xml</a>
+                           </td>
+                           <td>12</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p19.xml">DerGemeindebote-p19.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -1279,15 +1279,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p18.xml">DerGemeindebote-p18.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/DerGemeindebote/GT-PAGE/DerGemeindebote-p15.xml">DerGemeindebote-p15.xml</a>
                            </td>
-                           <td>5</td>
+                           <td>18</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1301,14 +1301,14 @@ It is a dataset created for evaluation of layout analysis methods.
                </td>
             </tr>
             <tr>
-               <th>DerSandwirt</th>
-               <td>274</td>
-               <td>14</td>
+               <th>EvLuthKirchenblatt</th>
+               <td>330</td>
+               <td>2</td>
                <td>0</td>
-               <td>24</td>
+               <td>19</td>
                <td>0</td>
                <td>0</td>
-               <td>65</td>
+               <td>34</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -1337,7 +1337,7 @@ It is a dataset created for evaluation of layout analysis methods.
                               <th>MusicRegion</th>
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
+                              <th>UnknownRegion</th>
                               <th>CustomRegion</th>
                               <th>TextLine</th>
                               <th>Page</th>
@@ -1345,55 +1345,74 @@ It is a dataset created for evaluation of layout analysis methods.
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_01.xml">DerSandwirt_1937_01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170201-p018.xml">Kirchenblatt_19170201-p018.xml</a>
+                           </td>
+                           <td>10</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171015-p159.xml">Kirchenblatt_19171015-p159.xml</a>
+                           </td>
+                           <td>16</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171015-p156.xml">Kirchenblatt_19171015-p156.xml</a>
+                           </td>
+                           <td>12</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170201-p021.xml">Kirchenblatt_19170201-p021.xml</a>
                            </td>
                            <td>26</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>10</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1940_11-p001.xml">DerSandwirt_1940_11-p001.xml</a>
-                           </td>
-                           <td>15</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1938_11-p281.xml">DerSandwirt_1938_11-p281.xml</a>
-                           </td>
-                           <td>14</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1402,53 +1421,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1934_10-p002.xml">DerSandwirt_1934_10-p002.xml</a>
-                           </td>
-                           <td>12</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_03-p001.xml">DerSandwirt_1937_03-p001.xml</a>
-                           </td>
-                           <td>14</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_02-p033.xml">DerSandwirt_1937_02-p033.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171031-p162.xml">Kirchenblatt_19171031-p162.xml</a>
                            </td>
                            <td>16</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>1</td>
                            <td>0</td>
+                           <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1459,15 +1440,15 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1936_03-p062.xml">DerSandwirt_1936_03-p062.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170701-p101.xml">Kirchenblatt_19170701-p101.xml</a>
                            </td>
-                           <td>20</td>
+                           <td>33</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1478,7 +1459,26 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1934_02-p001.xml">DerSandwirt_1934_02-p001.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19161101-p165.xml">Kirchenblatt_19161101-p165.xml</a>
+                           </td>
+                           <td>16</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19911101-p177.xml">Kirchenblatt_19911101-p177.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -1497,110 +1497,34 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_01-p024.xml">DerSandwirt_1937_01-p024.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19911101-p182.xml">Kirchenblatt_19911101-p182.xml</a>
                            </td>
-                           <td>23</td>
+                           <td>24</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_01-p015.xml">DerSandwirt_1937_01-p015.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19171015-p153.xml">Kirchenblatt_19171015-p153.xml</a>
                            </td>
-                           <td>21</td>
+                           <td>11</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1940_11-p211.xml">DerSandwirt_1940_11-p211.xml</a>
-                           </td>
-                           <td>15</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_01-p008.xml">DerSandwirt_1937_01-p008.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1934_10-p226.xml">DerSandwirt_1934_10-p226.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1940_11.xml">DerSandwirt_1940_11.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>8</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1611,53 +1535,129 @@ It is a dataset created for evaluation of layout analysis methods.
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1938_11-p276.xml">DerSandwirt_1938_11-p276.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p081.xml">Kirchenblatt_19160601-p081.xml</a>
                            </td>
-                           <td>20</td>
-                           <td>2</td>
+                           <td>14</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_02-p002.xml">DerSandwirt_1937_02-p002.xml</a>
-                           </td>
-                           <td>15</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.26/data/DerSandwirt/GT-PAGE/DerSandwirt_1937_06-p001.xml">DerSandwirt_1937_06-p001.xml</a>
-                           </td>
-                           <td>8</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p085.xml">Kirchenblatt_19160601-p085.xml</a>
+                           </td>
+                           <td>20</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170701-p099.xml">Kirchenblatt_19170701-p099.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p087.xml">Kirchenblatt_19160601-p087.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170701-p097.xml">Kirchenblatt_19170701-p097.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19170201-p017.xml">Kirchenblatt_19170201-p017.xml</a>
+                           </td>
+                           <td>15</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_1/blob/t1.0.27/data/EvLuthKirchenblatt/GT-PAGE/Kirchenblatt_19160601-p082.xml">Kirchenblatt_19160601-p082.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
