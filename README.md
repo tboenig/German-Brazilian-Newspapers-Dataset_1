@@ -53,10 +53,10 @@ It is a dataset created for evaluation of layout analysis methods.
             <td>1113</td>
             <td>18</td>
             <td>0</td>
-            <td>86</td>
+            <td>71</td>
             <td>0</td>
             <td>0</td>
-            <td>157</td>
+            <td>176</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -96,25 +96,6 @@ It is a dataset created for evaluation of layout analysis methods.
             </thead>
             <tbody>
                <tr>
-                  <td>EvLuthKirchenblatt</td>
-                  <td>330</td>
-                  <td>2</td>
-                  <td/>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td>34</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-               </tr>
-               <tr>
                   <td>DerJugendfreund</td>
                   <td>283</td>
                   <td>2</td>
@@ -134,14 +115,33 @@ It is a dataset created for evaluation of layout analysis methods.
                   <td>15</td>
                </tr>
                <tr>
+                  <td>EvLuthKirchenblatt</td>
+                  <td>330</td>
+                  <td>2</td>
+                  <td/>
+                  <td>19</td>
+                  <td/>
+                  <td/>
+                  <td>34</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+               </tr>
+               <tr>
                   <td>DerGemeindebote</td>
                   <td>226</td>
                   <td/>
                   <td/>
-                  <td>27</td>
+                  <td>12</td>
                   <td/>
                   <td/>
-                  <td>30</td>
+                  <td>49</td>
                   <td/>
                   <td/>
                   <td/>
@@ -206,14 +206,14 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 83.0667px;text-align: center">
                   <strong>Image size (in pixels)</strong>
                </td>
-               </tr>
+            </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Gemeindebote”</td>
                <td style="width: 88.35px">1935-1938</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 83.0667px">3850 x 5480</td>
-               </tr>
+            </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Jugendfreund”</td>
                <td style="width: 88.35px">1911-1917</td>
